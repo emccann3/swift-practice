@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		2F903457141005A89F25B583 /* FirstAndLast.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstAndLast.swift; sourceTree = "<group>"; };
 		2F9037D1CAA3B747A6479754 /* Characters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Characters.swift; sourceTree = "<group>"; };
 		2F90392A6C108BA33CCF37A0 /* SumIntegers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SumIntegers.swift; sourceTree = "<group>"; };
 		2F903A27CFBC116842518B21 /* Negatives.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Negatives.swift; sourceTree = "<group>"; };
@@ -26,6 +27,7 @@
 				2F903A27CFBC116842518B21 /* Negatives.swift */,
 				2F903AB490738B2325153295 /* Strings.swift */,
 				2F9037D1CAA3B747A6479754 /* Characters.swift */,
+				2F903457141005A89F25B583 /* FirstAndLast.swift */,
 			);
 			sourceTree = "<group>";
 		};
