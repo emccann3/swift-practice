@@ -12,6 +12,8 @@
 		2F90392A6C108BA33CCF37A0 /* SumIntegers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SumIntegers.swift; sourceTree = "<group>"; };
 		2F903A27CFBC116842518B21 /* Negatives.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Negatives.swift; sourceTree = "<group>"; };
 		2F903AB490738B2325153295 /* Strings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Strings.swift; sourceTree = "<group>"; };
+		2F903CAEF4B022C3761346A4 /* NewString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewString.swift; sourceTree = "<group>"; };
+		2F903DCE207FAE4204D0707D /* Multiples.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Multiples.swift; sourceTree = "<group>"; };
 		2F903E083B3AD046B70B453B /* Boolean20.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Boolean20.swift; sourceTree = "<group>"; };
 		2F903E536870995B07F23C6F /* Difference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Difference.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -28,6 +30,8 @@
 				2F903AB490738B2325153295 /* Strings.swift */,
 				2F9037D1CAA3B747A6479754 /* Characters.swift */,
 				2F903457141005A89F25B583 /* FirstAndLast.swift */,
+				2F903DCE207FAE4204D0707D /* Multiples.swift */,
+				2F903CAEF4B022C3761346A4 /* NewString.swift */,
 			);
 			sourceTree = "<group>";
 		};
